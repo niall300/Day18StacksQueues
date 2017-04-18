@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 //Can you determine if a given string, s, is a palindrome?
 
-//To solve this challenge, we must first take each character in s, enqueue it in a queue,
+//To solve this here challenge, we must first take each character in s, enqueue it in a queue,
 //    and also push that same character onto a stack
 //    .Once that's done, we must dequeue the first character from the queue and
 //    pop the top character off the stack,
