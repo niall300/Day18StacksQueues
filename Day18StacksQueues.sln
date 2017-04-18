@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18StacksQueues", "Day18StacksQueues\Day18StacksQueues.csproj", "{12A63B02-4FC4-4211-8083-4265790DAB3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PallindromeChecker", "Day18StacksQueues\PallindromeChecker.csproj", "{12A63B02-4FC4-4211-8083-4265790DAB3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
